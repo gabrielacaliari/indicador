@@ -1,0 +1,2 @@
+# indicador
+Indicador de Jogos
