@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #FBDCE7
+}
+
+body {
+  font-family: verdana;
+}
+
+input[type="text"]{
+  font-size: 30px;
+  width: 230px;
+  border: 4px solid #9E9E9E;
+  border-radius: 100px;
+}
+input[type="checkbox"]{
+  transform: scale(2);
+  margin-right: 30px;
+}
+label {
+  font-size: 25px;
+  display: inline-block;
+}
+
+#idade {
+  font-size: 30px;
+  font-weight: normal;
+  color: #9C27B0;
+}
+
+canvas {
+  display: block;
+}
